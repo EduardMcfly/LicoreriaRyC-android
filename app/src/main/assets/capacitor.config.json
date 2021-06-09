@@ -1,0 +1,10 @@
+{
+	"appId": "com.ryc.app",
+	"appName": "licoreriaryc-front",
+	"webDir": "build",
+	"bundledWebRuntime": false,
+	"server": {
+		"hostname": "www.licoreriaryc.com",
+		"androidScheme": "https"
+	}
+}
