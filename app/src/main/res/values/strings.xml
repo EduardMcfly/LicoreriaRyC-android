@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">Licorería R&amp;C</string>
-    <string name="title_activity_main">Licorería R&amp;C</string>
+    <string name="app_name">Licoreria R&amp;C</string>
+    <string name="title_activity_main">Licoreria R&amp;C</string>
     <string name="package_name">com.ryc.app</string>
     <string name="custom_url_scheme">com.ryc.app</string>
 </resources>
