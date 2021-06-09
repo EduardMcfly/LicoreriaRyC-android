@@ -1,6 +1,6 @@
 {
 	"appId": "com.ryc.app",
-	"appName": "licoreriaryc-front",
+	"appName": "Licorería R&C",
 	"webDir": "build",
 	"bundledWebRuntime": false,
 	"server": {
